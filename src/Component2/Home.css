@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.banner {
+  background-image: url("https://via.placeholder.com/1200x400");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 20px;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.banner p {
+  font-size: 1.5rem;
+  margin: 10px 0 0;
+}
+
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.content p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
