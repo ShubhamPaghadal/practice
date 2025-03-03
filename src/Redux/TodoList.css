@@ -1,0 +1,40 @@
+.todo-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.todo-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.todo-container input {
+  padding: 10px;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+.todo-container button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.todo-container button:hover {
+  background-color: #0056b3;
+}
+
+.todo-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-container li {
+  padding: 10px;
+  font-size: 1rem;
+  border-bottom: 1px solid #ddd;
+}
